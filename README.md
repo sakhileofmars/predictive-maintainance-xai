@@ -32,7 +32,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/predictive-maintenance-xai.git
+   git clone https://github.com/sakhileofmars/predictive-maintenance-xai.git
    ```
 
 2. Install the required dependencies:
